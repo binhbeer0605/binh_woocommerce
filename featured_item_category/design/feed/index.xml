@@ -46,7 +46,7 @@
 				<guid isPermaLink="false">http://flatsome.dev/?post_type=featured_item&#038;p=8917</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.]]></description>
-										<content:encoded><![CDATA[<div class="slider-wrapper relative" id="slider-418938838" style="margin-bottom:13px;">
+										<content:encoded><![CDATA[<div class="slider-wrapper relative" id="slider-1361287269" style="margin-bottom:13px;">
     <div class="slider slider-nav-circle slider-nav-large slider-nav-light slider-style-normal"
         data-flickity-options='{
             "cellAlign": "center",
@@ -69,37 +69,37 @@
             "friction": 0.6        }'
         >
         
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1970033122">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1572923311">
 								<div class="img-inner dark" >
 			<img width="400" height="260" src="https://binhbeer0605.github.io/binh_woocommerce/wp-content/uploads/sites/2/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />						
 					</div>
 								
 <style>
-#image_1970033122 {
+#image_1572923311 {
   width: 100%;
 }
 </style>
 	</div>
 	
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1216376920">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1385649062">
 								<div class="img-inner dark" >
 			<img width="400" height="260" src="https://binhbeer0605.github.io/binh_woocommerce/wp-content/uploads/sites/2/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />						
 					</div>
 								
 <style>
-#image_1216376920 {
+#image_1385649062 {
   width: 100%;
 }
 </style>
 	</div>
 	
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1754044664">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_63588295">
 								<div class="img-inner dark" >
 			<img width="400" height="260" src="https://binhbeer0605.github.io/binh_woocommerce/wp-content/uploads/sites/2/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />						
 					</div>
 								
 <style>
-#image_1754044664 {
+#image_63588295 {
   width: 100%;
 }
 </style>

@@ -1,0 +1,57 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Software &#8211; My Woocommerce</title>
+	<atom:link href="https://binhbeer0605.github.io/binh_woocommerce/tu-khoa-san-pham/software/feed/" rel="self" type="application/rss+xml" />
+	<link>https://binhbeer0605.github.io/binh_woocommerce</link>
+	<description>Một trang web mới của Nguyễn Thanh Bình</description>
+	<lastBuildDate>Fri, 15 Jul 2022 02:39:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>3D Fashion Design</title>
+		<link>https://binhbeer0605.github.io/binh_woocommerce/san-pham/3d-fashion-design/</link>
+					<comments>https://binhbeer0605.github.io/binh_woocommerce/san-pham/3d-fashion-design/#respond</comments>
+		
+		<dc:creator><![CDATA[binh002tn]]></dc:creator>
+		<pubDate>Fri, 15 Jul 2022 02:26:11 +0000</pubDate>
+				<guid isPermaLink="false">https://binhbeer0605.github.io/binh_woocommerce/?post_type=product&#038;p=1023</guid>
+
+					<description><![CDATA[<strong>Some outstanding features of the software:</strong>
+<ul>
+ 	<li>Design costumes with 3D images.</li>
+ 	<li>Simple interface, easy to use.</li>
+ 	<li>Develop ideas in clothing design.</li>
+ 	<li>Integrated tools make it easy to edit and change designs easily.</li>
+</ul>
+<span style="background-color: #ffff00;">Note: You can use the software for free for 30 days. After that, you have to pay 1,100,000 VND/1 month, 9,900,000 VND/1 year to continue using.</span>]]></description>
+										<content:encoded><![CDATA[<p><strong>Some outstanding features of the software:</strong></p>
+<ul>
+<li>Design costumes with 3D images.</li>
+<li>Simple interface, easy to use.</li>
+<li>Develop ideas in clothing design.</li>
+<li>Integrated tools make it easy to edit and change designs easily.</li>
+</ul>
+<p><span style="background-color: #ffff00;">Note: You can use the software for free for 30 days. After that, you have to pay 1,100,000 VND/1 month, 9,900,000 VND/1 year to continue using.</span></p>
+<div class="ddict_btn" style="top: 148px; left: 891.493px;"><img src="chrome-extension://bpggmmljdiliancllaapiggllnkbjocb/logo/48.png" /></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://binhbeer0605.github.io/binh_woocommerce/san-pham/3d-fashion-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

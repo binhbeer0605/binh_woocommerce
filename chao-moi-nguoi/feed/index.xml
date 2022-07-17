@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -7,7 +8,7 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Chào tất cả mọi người!	</title>
+	Comments on: Chào tất cả mọi người!	</title>
 	<atom:link href="https://binhbeer0605.github.io/binh_woocommerce/chao-moi-nguoi/feed/" rel="self" type="application/rss+xml" />
 	<link>https://binhbeer0605.github.io/binh_woocommerce/chao-moi-nguoi/</link>
 	<description>Một trang web mới của Nguyễn Thanh Bình</description>
@@ -19,7 +20,7 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>
-		Bởi: A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://binhbeer0605.github.io/binh_woocommerce/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
